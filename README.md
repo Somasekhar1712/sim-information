@@ -5,8 +5,6 @@ Gets info from the Sim card like the carrier name, mcc, mnc and country code and
 ## Install
 
 ```bash
-npm install https://github.com/Somasekhar1712/sim-information/sim-information-0.0.1.tgz
-or  
 npm install sim-information
 npx cap sync
 ```
