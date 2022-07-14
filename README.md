@@ -39,3 +39,9 @@ echo(options: { value: string; }) => Promise<{ value: string; }>
 --------------------
 
 </docgen-api>
+
+## Author
+
+#### Kothapalli Somasekhar
+
+- https://github.com/Somasekhar1712
